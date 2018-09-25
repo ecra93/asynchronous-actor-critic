@@ -1,0 +1,6 @@
+model_checkpoint_path: "network-117000"
+all_model_checkpoint_paths: "network-113000"
+all_model_checkpoint_paths: "network-114000"
+all_model_checkpoint_paths: "network-115000"
+all_model_checkpoint_paths: "network-116000"
+all_model_checkpoint_paths: "network-117000"
